@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expandable-card-animation-react/static/css/main.b1b5bee5.css",
+    "main.js": "/expandable-card-animation-react/static/js/main.f5fc72a6.js",
+    "static/js/787.ef24ce66.chunk.js": "/expandable-card-animation-react/static/js/787.ef24ce66.chunk.js",
+    "index.html": "/expandable-card-animation-react/index.html",
+    "main.b1b5bee5.css.map": "/expandable-card-animation-react/static/css/main.b1b5bee5.css.map",
+    "main.f5fc72a6.js.map": "/expandable-card-animation-react/static/js/main.f5fc72a6.js.map",
+    "787.ef24ce66.chunk.js.map": "/expandable-card-animation-react/static/js/787.ef24ce66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b5bee5.css",
+    "static/js/main.f5fc72a6.js"
+  ]
+}
